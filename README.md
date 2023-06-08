@@ -1,4 +1,4 @@
-# Calculator
+# Calculator Application
 
 This is a basic calculator application implemented in Python using the Tkinter library. It provides a graphical user interface (GUI) where users can perform arithmetic calculations and view the results.
 
@@ -10,7 +10,11 @@ This is a basic calculator application implemented in Python using the Tkinter l
 - Square button to calculate the square of the current expression
 - Square root button to calculate the square root of the current expression
 
-## Usage
+## Prerequisites
+
+- Python 3.x: Make sure you have Python 3.x installed on your system. You can download it from the official Python website (https://www.python.org/downloads/).
+
+## How to Run
 
 1. Clone the repository to your local machine.
 
@@ -23,7 +27,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
    ```bash
    pip install tk
    ```
-
+   
 3. Run the application.
    - In the terminal or command prompt, enter the following command to start the game:
 
@@ -31,8 +35,8 @@ This is a basic calculator application implemented in Python using the Tkinter l
    python calculator.py
    ```
 
-4. The calculator window will appear. You can use the buttons on the GUI to enter expressions and perform calculations.
-
+4. The calculator window will appear. 
+   - You can use the buttons on the GUI to enter expressions and perform calculations.
    - To enter digits, click the respective buttons or use the corresponding keys on the keyboard.
    - To perform arithmetic operations, click the operator buttons or use the corresponding keys on the keyboard.
    - To clear the current expression, click the "C" button or press the "Delete" key on the keyboard.
