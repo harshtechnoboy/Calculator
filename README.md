@@ -25,6 +25,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
    ```
 
 3. Run the application.
+   - In the terminal or command prompt, enter the following command to start the game:
 
    ```bash
    python calculator.py
@@ -38,6 +39,8 @@ This is a basic calculator application implemented in Python using the Tkinter l
    - To calculate the square of the current expression, click the "x²" button.
    - To calculate the square root of the current expression, click the "√x" button.
    - To evaluate the expression and get the result, click the "=" button or press the "Enter" key on the keyboard.
+
+Have fun using the calculator!
 
 ## Contributing
 
